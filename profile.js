@@ -1,10 +1,3 @@
-// let catPic = document.getElementById("cat")
-
-
-// catPic.addEventListener("mouseover", function(event) {
-// 	alert("You seem like a nice person!")
-// } )
-
 let colorBtn = document.getElementById("color")
 colorBtn.addEventListener("click", function(event) {
     alert("Mustard Yellow")
