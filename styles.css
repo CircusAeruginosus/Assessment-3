@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+#hear {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
